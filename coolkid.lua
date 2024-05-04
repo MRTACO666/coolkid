@@ -1,4 +1,4 @@
-cka = game:GetObjects("rbxassetid://390359368")[1]
+cka = game:GetObjects("rbxassetid://17372117204")[1]
 --------------------------------------------------- Important
 cka.Parent = game.Players.LocalPlayer.PlayerGui
 main = cka.Frame
